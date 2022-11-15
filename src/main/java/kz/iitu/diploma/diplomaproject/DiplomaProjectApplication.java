@@ -8,7 +8,8 @@ public class DiplomaProjectApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DiplomaProjectApplication.class, args);
+        System.out.println("hello world");
     }
 
 }
-//add
+//trying to test git
